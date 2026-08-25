@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /admin.html
 
-Sitemap: https://zirignon.github.io/yes-baby/sitemap.xml
+Sitemap: https://yesbaby.ci/sitemap.xml
